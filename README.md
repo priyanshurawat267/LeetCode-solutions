@@ -6,6 +6,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -19,4 +20,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
