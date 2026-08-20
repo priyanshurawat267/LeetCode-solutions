@@ -24,4 +24,16 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
