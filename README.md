@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
