@@ -15,4 +15,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
