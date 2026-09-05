@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
