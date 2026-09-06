@@ -8,6 +8,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0006-zigzag-conversion](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 ## Hash Table
 |  |
@@ -70,4 +72,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
