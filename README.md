@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0013-roman-to-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
 |  |
 | ------- |
