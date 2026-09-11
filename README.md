@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0001-two-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -61,6 +62,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
