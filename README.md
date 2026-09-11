@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
