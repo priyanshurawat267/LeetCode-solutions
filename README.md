@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
 ## Tree
 |  |
 | ------- |
