@@ -55,6 +55,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0009-palindrome-number](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -116,4 +117,8 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
