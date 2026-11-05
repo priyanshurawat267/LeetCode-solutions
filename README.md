@@ -12,6 +12,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0835-image-overlap](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -19,6 +20,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -102,6 +105,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0015-3sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
