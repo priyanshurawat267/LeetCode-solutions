@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0016-3sum-closest](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0835-image-overlap](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -21,6 +22,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -45,6 +47,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -70,6 +73,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of my LeetCode solutions in Python, covering Data Structures and Al
 | [0005-longest-palindromic-substring](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/priyanshurawat267/LeetCode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
